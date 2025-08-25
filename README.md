@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi
+![Counter](https://komarev.com/ghpvc/?username=Taiyo-T&style=flat&abbreviated=true)
+<img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
+<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+<img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
+
+I'm Nuyuchi. You can contact with me on Discord >> [@aicerd](https://discord.gg/2Pg3sfP8)
+<br><br>
+### My stats:<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiyo-T)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiyo-T)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Taiyo-T/Taiyo-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
