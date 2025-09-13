@@ -9,6 +9,7 @@
 
 I'm Nuyuchi. You can contact with me on Discord >> [@aicerd](https://discord.gg/2Pg3sfP8)
 <br><br>
+I'm currently learning React, Next.js, Laravel, Contentful, and Supabase, and have used them before. I design using Figma and Penpot, and am working diligently on creating the student council website. Beyond web development, I occasionally engage in simple game creation using Godot and simple 3D character modeling activities.
 ### My stats:<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiyo-T)](https://github.com/anuraghazra/github-readme-stats)
 <br>
